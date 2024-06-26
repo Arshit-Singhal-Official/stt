@@ -1,2 +1,2 @@
 # stt
-Testing stremio torrentio using stremio api
+Testing stremio torrentio 
